@@ -29,4 +29,4 @@ This repository showcases an example of **application-level middleware** in Expr
 
 --- 
 
-![GIF]()
+![GIF](https://movicoders.com/movicoders-media/movicoders-data-processing-integration.gif)
